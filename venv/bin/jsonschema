@@ -1,4 +1,4 @@
-#!/home/vera/ds_bootcamp/tips/venv/bin/python
+#!/home/vera/ds_bootcamp/tips_for_me/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
